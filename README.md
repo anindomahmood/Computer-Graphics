@@ -54,18 +54,18 @@
 
 <h3>2. Screen Layouts & Features</h3>
 
-<h4>i. Title / Cover Page Sequence</h4>
+<h4>Title / Cover Page Sequence</h4>
 <ul>
     <li>Renders a structured introductory interface featuring AIUB institutional identity tags.</li>
     <li>Displays structured student records alongside core supervisor definitions aligned inside explicit graphic borders.</li>
 </ul>
 
-<h4>ii. Interactive Keyboard Setup Board</h4>
+<h4>Interactive Keyboard Setup Board</h4>
 <ul>
     <li>Functions as a runtime documentation screen explaining hotkeys, acceleration hooks, and layout state configurations.</li>
 </ul>
 
-<h4>iii. Marine Drive System (Scene E , Designed by: Nishat Tasnim Ema)</h4>
+<h4>Marine Drive System (Scene E , Designed by: Nishat Tasnim Ema)</h4>
 <ul>
     <li><strong>Scenery Elements:</strong> Features an asphalt shoreline highway flanked by mountain ridge profiles, dynamic vegetation, and rolling sea currents.</li>
     <li><strong>Day & Night Cycle:</strong> Driven by continuous solar vector calculations. When the sun dips beneath the horizon plane, the frame transitions from bright blue sky gradients into a deep starfield system.</li>
@@ -73,14 +73,14 @@
     <li><strong>Dynamic Audio:</strong> Cycles seamlessly based on environmental changes, alternating between active day waves, car horns, ship alerts, and crickets at night.</li>
 </ul>
 
-<h4>iv. Traditional Fishing Village (Scene F , Designed by: Anindo Mahmood)</h4>
+<h4>Traditional Fishing Village (Scene F , Designed by: Anindo Mahmood)</h4>
 <ul>
     <li><strong>Scenery Elements:</strong> Illustrates coastal settlements with textured thatch-roof huts, localized palm tree lines, and matching sand-to-water shoreline slopes.</li>
     <li><strong>Animations:</strong> Synchronized cloud drifting, solar vectors, and local wooden rowboats moving with the water currents.</li>
     <li><strong>Audio System:</strong> Pairs paddle boat wave splashing audios with the daytime look, switching over to night ambient cues at dusk.</li>
 </ul>
 
-<h4>v. Busy Beach Shoreline (Scene R , Designed by: Rifat Hasan)</h4>
+<h4>Busy Beach Shoreline (Scene R , Designed by: Rifat Hasan)</h4>
 <ul>
     <li><strong>Scenery Elements:</strong> Recreates the sandy tourist shores of Cox's Bazar with detailed relaxation beach chairs, striped sun umbrellas, and ambient coastal breaks.</li>
     <li><strong>Sky Atmosphere:</strong> Utilizes warm color palettes (terracotta, orange, and gold) combined in blending passes to simulate true sunset horizons.</li>
